@@ -24,10 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luiscastro8p/luiscastro8p/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://twitter.com/MrLACC" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
